@@ -10,5 +10,7 @@ RESİMLER
 <img src=/DataBaseProject/image/ss1.PNG width="500" height="400">
 
 # Başvuru Ekranı
-<img src=/DataBaseProject/image/ss2.PNG width="500" height="400">
+<img src=/DataBaseProject/image/ss2.PNG width="600" height="400">
 
+# Başvuru Sorgulama Ekranı
+<img src=/DataBaseProject/image/ss3.PNG width="600" height="400">
