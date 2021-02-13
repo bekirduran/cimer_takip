@@ -7,5 +7,5 @@ uygulamayı kullanabilirisiniz.
 RESİMLER
 
  #Giriş Ekranı
-<img src=/DataBaseProject/image/ss1.PNG width="400" height="700">
+<img src=/DataBaseProject/image/ss1.PNG width="500" height="400">
 
