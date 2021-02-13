@@ -14,3 +14,12 @@ RESİMLER
 
 # Başvuru Sorgulama Ekranı
 <img src=/DataBaseProject/image/ss3.PNG width="600" height="400">
+
+# Yönetici Giriş Ekranı
+<img src=/DataBaseProject/image/ss4.PNG width="600" height="400">
+
+# Kontroller Giriş Ekranı
+<img src=/DataBaseProject/image/ss5.PNG width="600" height="400">
+
+# Muhasebe Giriş Ekranı
+<img src=/DataBaseProject/image/ss6.PNG width="600" height="400">
