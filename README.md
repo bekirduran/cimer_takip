@@ -6,6 +6,9 @@ uygulamayı kullanabilirisiniz.
 
 RESİMLER
 
- #Giriş Ekranı
+# Giriş Ekranı
 <img src=/DataBaseProject/image/ss1.PNG width="500" height="400">
+
+# Başvuru Ekranı
+<img src=/DataBaseProject/image/ss2.PNG width="500" height="400">
 
